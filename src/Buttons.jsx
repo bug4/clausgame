@@ -35,7 +35,7 @@ const Buttons = () => {
           Twitter
         </a>
         <a 
-          href="https://telegram.org" 
+          href="https://t.me/ClausGameSOL" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-white font-bold py-3 px-8 rounded-xl transition-all text-xl shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
