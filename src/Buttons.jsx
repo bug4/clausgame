@@ -13,7 +13,7 @@ const Buttons = () => {
       {/* Buy Now Button */}
       <div className="absolute top-6 right-6 pointer-events-auto">
         <a 
-          href="https://pump.fun" 
+          href="https://pump.fun/coin/9yRoe3qiqhPiFvRNtEpZ62rgUSGMfypCgTwuiiWspump" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-white font-bold py-3 px-8 rounded-xl transition-all text-xl shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
