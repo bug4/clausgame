@@ -20,7 +20,7 @@ const LoadingScreen = () => {
 
   return (
     <div className="fixed inset-0 bg-blue-400 flex items-center justify-center flex-col gap-4 z-50">
-      <div className="text-4xl font-bold text-white mb-4">Claus Game | Solana</div>
+      <div className="text-4xl font-bold text-white mb-4">Frost Game | Solana</div>
       <div className="w-16 h-16 relative">
         <div className="w-16 h-16 border-4 border-white border-t-transparent rounded-full animate-spin"></div>
       </div>

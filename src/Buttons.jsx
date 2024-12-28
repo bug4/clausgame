@@ -13,7 +13,7 @@ const Buttons = () => {
       {/* Buy Now Button */}
       <div className="absolute top-6 right-6 pointer-events-auto">
         <a 
-          href="https://pump.fun/coin/9yRoe3qiqhPiFvRNtEpZ62rgUSGMfypCgTwuiiWspump" 
+          href="https://pump.fun/" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-white font-bold py-3 px-8 rounded-xl transition-all text-xl shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
@@ -26,22 +26,13 @@ const Buttons = () => {
       {/* Social Media Buttons */}
       <div className="absolute top-6 left-1/2 -translate-x-1/2 flex gap-6 pointer-events-auto">
         <a 
-          href="https://x.com/ClausGameSOL" 
+          href="https://x.com/frostgamesol" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-white font-bold py-3 px-8 rounded-xl transition-all text-xl shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
           style={customStyles}
         >
           Twitter
-        </a>
-        <a 
-          href="https://t.me/ClausGameSOL" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          className="text-white font-bold py-3 px-8 rounded-xl transition-all text-xl shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
-          style={customStyles}
-        >
-          Telegram
         </a>
       </div>
 
